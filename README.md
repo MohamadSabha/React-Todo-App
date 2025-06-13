@@ -37,7 +37,7 @@ This app supports creating, updating, deleting, and toggling tasks with persiste
 ## 🌐 Live Demo
 
 You can view the live application deployed on Netlify here:  
-🔗 [https://your-netlify-app-link.netlify.app](https://your-netlify-app-link.netlify.app)
+🔗 [https://your-netlify-app-link.netlify.app](https://mhd-todoapp.netlify.app/)
 
 ---
 
