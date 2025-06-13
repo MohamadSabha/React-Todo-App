@@ -36,3 +36,83 @@
     transform: rotate(360deg);
   }
 }
+.iconButtonChcekGreen {
+  transition: all 0.2s !important;
+}
+
+.iconButtonChcekGreen:hover {
+  background-color: #14a601 !important;
+  box-shadow: 0px 3px 7px #14a601;
+}
+.iconButtonChcekRed {
+  transition: all 0.2s !important;
+}
+
+.iconButtonChcekRed:hover {
+  background-color: #831010 !important;
+  box-shadow: 0px 3px 7px #831010;
+}
+.iconButtonDelete {
+  transition: all 0.2s !important;
+}
+
+.iconButtonDelete:hover {
+  color: #ffff !important;
+
+  background-color: #c7c000 !important;
+  box-shadow: 0px 3px 7px#c7c000;
+}
+.iconButtonEdit {
+  transition: all 0.2s !important;
+}
+
+.iconButtonEdit:hover {
+  color: #ffff !important;
+  background-color: #0753d5 !important;
+  box-shadow: 0px 3px 7px #0753d5;
+}
+AddButton {
+  transition: all 0.2s !important;
+}
+
+.AddButton:hover {
+  box-shadow: 0px 7px 7px rgba(105, 215, 16, 0.4);
+}
+
+.todoCardGreen {
+  margin-top: 10px !important;
+  transition: all 0.2s !important;
+  box-shadow: -1px 0px 5px 0px #2e7d32 !important;
+}
+.todoCardRed {
+  margin-top: 10px !important;
+  transition: all 0.2s !important;
+  box-shadow: -1px 0px 5px 0px #9f0000 !important;
+}
+
+.MyCardContent {
+  background-color: #1c1d1f !important;
+  box-shadow: -1px 0px 5px 0px #a4a4a4 !important;
+}
+.todoCard:hover {
+  padding-bottom: 2px;
+  padding-top: 2px;
+  box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.4);
+}
+.ToggleButtonGroup {
+  margin-top: "10px";
+  box-shadow: -1px 0px 5px 0px #ffffff47 !important;
+}
+
+@font-face {
+  font-family: MyFontBold;
+  src: url(../public/Fonts/AlumniSansSC-Bold.ttf);
+}
+@font-face {
+  font-family: MyFontItalic;
+  src: url(../public/Fonts/AlumniSansSC-BlackItalic.ttf);
+}
+@font-face {
+  font-family: MyFontLight;
+  src: url(../public/Fonts/AlumniSansSC-Light.ttf);
+}
