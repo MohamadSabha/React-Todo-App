@@ -3,7 +3,6 @@
 ### Main Page Screenshot  
 The main page showing the task list, filtering buttons, and add new task form:
 
-![Main Page Screenshot](./screenshot.png)
 
 # 📝 ToDo App with React & Material-UI
 
