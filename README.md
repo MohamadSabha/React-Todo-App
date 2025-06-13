@@ -1,3 +1,10 @@
+
+![image](https://github.com/user-attachments/assets/cfbcdb81-21c2-4101-a10a-e70c37fad983)
+### Main Page Screenshot  
+The main page showing the task list, filtering buttons, and add new task form:
+
+![Main Page Screenshot](./screenshot.png)
+
 # 📝 ToDo App with React & Material-UI
 
 A modern, sleek ToDo application built with **React** and **Material-UI (MUI)**.  
@@ -25,15 +32,6 @@ This app supports creating, updating, deleting, and toggling tasks with persiste
 - 🌐 React Context API for state management  
 - 🆔 UUID for unique task IDs  
 - 🧠 LocalStorage API for persistent storage  
-
----
-
-## 📸 Screenshots
-
-### Main Page Screenshot  
-The main page showing the task list, filtering buttons, and add new task form:
-
-![Main Page Screenshot](./screenshot.png)
 
 ---
 
@@ -143,26 +141,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
