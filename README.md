@@ -36,7 +36,7 @@ The main page showing the task list, filtering buttons, and add new task form:
 ## 🌐 Live Demo
 
 You can view the live application deployed on Netlify here:  
-🔗 [https://your-netlify-app-link.netlify.app](https://mhd-todoapp.netlify.app/)
+🔗 https://mhd-todoapp.netlify.app/
 
 ---
 
