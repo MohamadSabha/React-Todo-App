@@ -1,16 +1,15 @@
 
 ![image](https://github.com/user-attachments/assets/cfbcdb81-21c2-4101-a10a-e70c37fad983)
-### Main Page Screenshot  
-The main page showing the task list, filtering buttons, and add new task form:
-
-
 # 📝 ToDo App with React & Material-UI
 
 A modern, sleek ToDo application built with **React** and **Material-UI (MUI)**.  
 This app supports creating, updating, deleting, and toggling tasks with persistent storage using **LocalStorage**. It features responsive UI components, modal dialogs for editing and deletion confirmation, and task filtering by completion status.
 
 ---
-
+### Main Page Screenshot  
+The main page showing the task list, filtering buttons, and add new task form:
+---
+---
 ## 🚀 Features
 
 - ✅ Add new tasks with title and details  
