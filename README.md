@@ -1,39 +1,46 @@
-# ToDo App with React & Material-UI
+# 📝 ToDo App with React & Material-UI
 
 A modern, sleek ToDo application built with **React** and **Material-UI (MUI)**.  
-This app supports creating, updating, deleting, and toggling tasks with persistent storage using `localStorage`. It features responsive UI components, modal dialogs for editing and deletion confirmation, and task filtering by completion status.
+This app supports creating, updating, deleting, and toggling tasks with persistent storage using **LocalStorage**. It features responsive UI components, modal dialogs for editing and deletion confirmation, and task filtering by completion status.
 
 ---
 
 ## 🚀 Features
 
-- Add new tasks with title and details  
-- Mark tasks as completed/uncompleted with toggle button  
-- Edit existing tasks via modal dialog  
-- Delete tasks with confirmation dialog  
-- Filter tasks by **All**, **Completed**, and **Uncompleted**  
-- Responsive design using Material-UI components and custom styling  
-- State management via React Context API  
-- Persist tasks in browser `localStorage` for session retention  
+- ✅ Add new tasks with title and details  
+- 🔄 Mark tasks as completed/uncompleted with toggle button  
+- ✏️ Edit existing tasks via modal dialog  
+- 🗑️ Delete tasks with confirmation dialog  
+- 🔍 Filter tasks by **All**, **Completed**, and **Uncompleted**  
+- 📱 Responsive design using Material-UI components and custom styling  
+- ⚙️ State management via **React Context API**  
+- 💾 Persist tasks in browser **localStorage** for session retention  
 
 ---
+
 ## 🛠️ Technologies Used
-- React 18
-- Material-UI (MUI) v5
-- React Context API for state management
-- UUID for unique task IDs
+
+- ⚛️ React 18  
+- 🎨 Material-UI (MUI) v5  
+- 🌐 React Context API for state management  
+- 🆔 UUID for unique task IDs  
+- 🧠 LocalStorage API for persistent storage  
+
+---
 
 ## 📸 Screenshots
 
-![Main Page Screenshot](./screenshots/main-page.png)  
-*The main page showing the task list, filtering buttons, and add new task form.*
+### Main Page Screenshot  
+The main page showing the task list, filtering buttons, and add new task form:
+
+![Main Page Screenshot](./screenshot.png)
 
 ---
 
 ## 🌐 Live Demo
 
 You can view the live application deployed on Netlify here:  
-[https://your-netlify-app-link.netlify.app](https://your-netlify-app-link.netlify.app)
+🔗 [https://your-netlify-app-link.netlify.app](https://your-netlify-app-link.netlify.app)
 
 ---
 
@@ -41,48 +48,54 @@ You can view the live application deployed on Netlify here:
 
 Follow these steps to run the project locally on your machine:
 
-### Prerequisites
+### ✅ Prerequisites
 
 - [Node.js](https://nodejs.org/) (v16 or later recommended)  
-- npm (comes with Node.js) or yarn  
+- npm (comes with Node.js) **or** yarn  
 
 ---
 
-### Clone the repository
-
-### Clone the repository
+### 📦 Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/todo-app.git
 cd todo-app
 ```
-### Install dependencies
+
+### Install Dependencies
+ ```bash
 # Using npm
 npm install
 
 # Or using yarn
 yarn install
 
-### Run the development server
+```
+
+### Run the Development Server
+Visit http://localhost:3000 in your browser to view the app.
+ ```bash
 # Using npm
 npm start
 
 # Or using yarn
 yarn start
 
-Open http://localhost:3000 to view the app in your browser.
+```
 
-### Build for production
+
+### Build for Production
+This will create an optimized production build in the build folder, ready to deploy.
+ ```bash
 # Using npm
 npm run build
 
 # Or using yarn
 yarn build
 
-This creates an optimized production build in the build folder, ready to deploy.
-
-
 ```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
